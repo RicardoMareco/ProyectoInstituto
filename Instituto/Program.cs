@@ -12,6 +12,7 @@ namespace Instituto
         {
             Console.WriteLine("Hola soy Ricardo! uwu");
             Console.WriteLine("Hola soy Ricardo! uwu");
+            Console.WriteLine("Hola soy UNA PERSONA! uwu");
             Console.ReadLine();
         }
     }

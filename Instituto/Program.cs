@@ -10,8 +10,8 @@ namespace Instituto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola soy Ricardo! wu");
-            Console.WriteLine("Hola soy Ricardo! wu");
+            Console.WriteLine("Hola soy Ricardo! uwu");
+            Console.WriteLine("Hola soy Ricardo! uwu");
             Console.ReadLine();
         }
     }

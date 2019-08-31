@@ -15,6 +15,7 @@ namespace Instituto
             Console.WriteLine("Hola soy UNA PERSONA! uwu");
             Console.WriteLine("No eres una persona");
             Console.WriteLine("No eres una persona");
+            Console.WriteLine("Ya me salio putosssss");
             Console.ReadLine();
         }
     }
